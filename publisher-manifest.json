@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "4dffc4266e0eee72e5bb56bf",
+  "owner": "cnkkspst",
+  "repo": "page-b434a948ecc1afd913e86144",
+  "title": "狗子云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b434a948ecc1afd913e86144",
+      "a": "狗子云",
+      "b": "",
+      "entity": "狗子云",
+      "brand": "狗子云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "ad7c614525241a2cde4aa4e1621513be0759d3983ddf104a614a5f17b4749c60",
+      "content": {
+        "keyword1": "狗子云",
+        "keyword2": "",
+        "primary_entity": "狗子云",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "狗子云。账户按月。流量封顶。设备计数。套餐、说明、问答都在本页。",
+          "AI_DESCRIPTION": "狗子云。账户按月。流量封顶。设备计数。套餐、说明、问答都在本页。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*,*::before,*::after{box-sizing:border-box}\nhtml{}\nbody{margin:0;background:#eef1f3;color:#2c3840;font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"Noto Sans SC\",sans-serif;font-size:16px;line-height:1.65}\na{color:#0e8f96;text-decoration:none}\na:hover{color:#08686e;text-decoration:underline}\nmain{display:block}\n.wrap{width:min(34rem,92vw);margin:0 0 0 8vw;padding:0 0 4rem}\n@media (max-width:720px){.wrap{margin:0 auto;width:min(34rem,90vw)}}\n.hero{min-height:100vh;padding:18vh 0 12vh;background:#eef1f3}\n.kicker{margin:0 0 .75rem;font-size:.72rem;letter-spacing:.28em;text-transform:uppercase;color:#5c6b75}\nh1{margin:0 0 1.1rem;font-size:clamp(2.1rem,5vw,2.8rem);font-weight:700;line-height:1.15;color:#1e272e;letter-spacing:.04em}\n.lead{margin:0 0 .7rem;font-size:1.05rem;color:#2c3840}\n.sub{margin:0 0 2rem;color:#5c6b75}\n.hero nav{display:flex;flex-wrap:wrap;gap:.55rem .9rem}\n.hero nav a{display:inline-block;padding:.15rem 0;border-bottom:2px solid #1aa7af;color:#1e272e;font-size:.92rem;letter-spacing:.08em}\n.hero nav a:hover{color:#0e8f96;text-decoration:none}\nh2{margin:0 0 1.25rem;font-size:1.15rem;font-weight:650;color:#1e272e;letter-spacing:.18em;border-bottom:3px solid #1aa7af;padding-bottom:.45rem;display:inline-block}\nsection.block{padding:2.75rem 0 1rem}\np{margin:0 0 .85rem}\n.steps{margin:0;padding:0;list-style:none}\n.steps li{margin:0 0 1.1rem;padding:1.25rem 1.35rem;background:#fff;border-radius:28px;box-shadow:0 14px 36px rgba(30,39,46,.08)}\n.steps .n{display:block;font-size:.75rem;letter-spacing:.2em;color:#1aa7af;margin-bottom:.35rem}\n.steps h3{margin:0 0 .35rem;font-size:1.02rem;color:#1e272e}\n.steps p{margin:0;color:#4a5962}\n.plans{display:flex;flex-direction:column;gap:1.15rem}\narticle.plan{background:#fff;border-radius:28px;box-shadow:0 14px 36px rgba(30,39,46,.08);padding:1.45rem 1.5rem 1.3rem}\narticle.plan.featured{box-shadow:0 18px 44px rgba(26,167,175,.18);outline:2px solid #1aa7af}\n.plan-top{display:flex;justify-content:space-between;align-items:baseline;gap:1rem;margin-bottom:.35rem}\n.plan-top h3{margin:0;font-size:1.2rem}\n.price{font-size:1.05rem;color:#0e8f96;font-weight:650;white-space:nowrap}\n.badge{display:inline-block;margin:0 0 .7rem;padding:.1rem .55rem;border-radius:999px;background:#1aa7af;color:#fff;font-size:.72rem;letter-spacing:.12em}\n.annual{margin:0 0 .75rem;color:#5c6b75;font-size:.92rem}\n.plan ul{margin:0;padding:0;list-style:none}\n.plan li{padding:.35rem 0;border-top:1px solid #e4eaed;color:#2c3840}\n.plan li:first-child{border-top:0}\n.clients{display:flex;flex-direction:column;gap:1rem}\n.client{background:#fff;border-radius:28px;box-shadow:0 14px 36px rgba(30,39,46,.08);padding:1.3rem 1.45rem}\n.client h3{margin:0 0 .4rem;font-size:1.02rem}\n.client p{margin:0;color:#4a5962}\n.faq{margin:0;padding:0;list-style:none;counter-reset:q}\n.faq li{counter-increment:q;margin:0 0 1.05rem;padding:0 0 .2rem}\n.faq li::before{content:counter(q,decimal-leading-zero);display:block;font-size:.78rem;letter-spacing:.2em;color:#1aa7af;margin-bottom:.25rem}\n.faq h3{margin:0 0 .35rem;font-size:1.02rem;color:#1e272e}\n.faq p{margin:0;color:#4a5962}\n.foot{padding:2rem 0 3rem;color:#5c6b75;font-size:.88rem}\n.foot p{margin:0 0 .4rem}\n</style><main>\n<section class=\"hero\">\n<div class=\"wrap\">\n<p class=\"kicker\">ACCOUNT / QUOTA</p>\n<h1>狗子云</h1>\n<p class=\"lead\">账户按月。流量封顶。设备计数。</p>\n<p class=\"sub\">选一档。填配置。自己用。价格在下面。没有口头承诺。</p>\n<nav>\n<a href=\"#plans\">套餐</a>\n<a href=\"#guide\">说明</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#faq\">问答</a>\n</nav>\n</div>\n</section>\n<section class=\"block\" id=\"plans\">\n<div class=\"wrap\">\n<h2>套餐</h2>\n<div class=\"plans\">\n<article class=\"plan\">\n<div class=\"plan-top\">\n<h3>基础版</h3>\n<p class=\"price\">¥15/月</p>\n</div>\n<p class=\"annual\">按年付仅需 ¥150/年</p>\n<ul>\n<li>每月流量额度 100GB</li>\n<li>同时在线 3 台设备</li>\n<li>单人日常用量</li>\n<li>工单按到达顺序处理</li>\n</ul>\n</article>\n<article class=\"plan featured\">\n<p class=\"badge\">推荐</p>\n<div class=\"plan-top\">\n<h3>旗舰版</h3>\n<p class=\"price\">¥35/月</p>\n</div>\n<p class=\"annual\">按年付仅需 ¥350/年</p>\n<ul>\n<li>每月流量额度 300GB</li>\n<li>同时在线 5 台设备</li>\n<li>工单优先排队</li>\n<li>适合多设备轮换</li>\n</ul>\n</article>\n<article class=\"plan\">\n<div class=\"plan-top\">\n<h3>团队版</h3>\n<p class=\"price\">¥85/月</p>\n</div>\n<p class=\"annual\">按年付仅需 ¥850/年</p>\n<ul>\n<li>每月流量额度 1000GB</li>\n<li>同时在线 20 台设备</li>\n<li>多人共用一个额度池</li>\n<li>可申请路由规则定制</li>\n</ul>\n</article>\n</div>\n</div>\n</section>\n<section class=\"block\" id=\"guide\">\n<div class=\"wrap\">\n<h2>使用说明</h2>\n<ol class=\"steps\">\n<li>\n<span class=\"n\">01</span>\n<h3>选定档位</h3>\n<p>对照流量与设备数。月付、年付二选一。选定即止，不要加项。</p>\n</li>\n<li>\n<span class=\"n\">02</span>\n<h3>完成登记</h3>\n<p>记下账户名与配置字段。字段以账户页为准。缺一项就停。</p>\n</li>\n<li>\n<span class=\"n\">03</span>\n<h3>写入客户端</h3>\n<p>打开你已有的客户端。原样填入。保存。启用。测一次通断。</p>\n</li>\n<li>\n<span class=\"n\">04</span>\n<h3>盯额度</h3>\n<p>流量用尽当月停用。下个周期重置。要加量，换更高档。</p>\n</li>\n</ol>\n</div>\n</section>\n<section class=\"block\" id=\"clients\">\n<div class=\"wrap\">\n<h2>客户端</h2>\n<div class=\"clients\">\n<article class=\"client\">\n<h3>本站不托管安装包</h3>\n<p>没有下载地址。不放来路不明的链接。用你手头已有的工具。</p>\n</article>\n<article class=\"client\">\n<h3>桌面与移动</h3>\n<p>Windows、macOS、Android、iOS 均自行准备。系统版本以各工具说明为准。此处不列兼容表。</p>\n</article>\n<article class=\"client\">\n<h3>配置从哪来</h3>\n<p>主机、端口、密钥只出现在账户页。页面不预填。猜字段等于连不上。</p>\n</article>\n<article class=\"client\">\n<h3>外链</h3>\n<p>可靠来源未提供。相关入口暂为占位：<a href=\"#\">#</a></p>\n</article>\n</div>\n</div>\n</section>\n<section class=\"block\" id=\"faq\">\n<div class=\"wrap\">\n<h2>常见问题</h2>\n<ol class=\"faq\">\n<li>\n<h3>狗子云是什么？</h3>\n<p>一个按月计费的账户品牌。流量有上限。设备有台数。其余以本页文字为准。</p>\n</li>\n<li>\n<h3>如何开始用？</h3>\n<p>选套餐。完成登记。把账户页给出的配置写入客户端。保存后启用。</p>\n</li>\n<li>\n<h3>三档怎么挑？</h3>\n<p>看月流量和同时在线台数。100GB 配 3 台走基础版。300GB 配 5 台走旗舰版。1000GB 配 20 台走团队版。</p>\n</li>\n<li>\n<h3>年付如何计？</h3>\n<p>基础版 150 元/年。旗舰版 350 元/年。团队版 850 元/年。以本页标价为准。</p>\n</li>\n<li>\n<h3>流量用完会怎样？</h3>\n<p>当月额度用尽即停。等到下个计费周期，或改更高档。本页不另设加油包。</p>\n</li>\n<li>\n<h3>客户端在哪里下载？</h3>\n<p>本站不提供安装包，也不放下载链接。请使用已安装的客户端。地址栏无可靠来源时保持为空。</p>\n</li>\n<li>\n<h3>本页没写的事项？</h3>\n<p>不写就不成立。身份、性能、评价、日志规则，一律以你实际拿到的账户说明为准。</p>\n</li>\n</ol>\n</div>\n</section>\n<section class=\"block\">\n<div class=\"wrap\">\n<div class=\"foot\">\n<p>狗子云</p>\n<p>本页只作浏览说明。不构成服务承诺。</p>\n</div>\n</div>\n</section>\n</main>",
+          "hash": "9bd7664eb1242df146dd157ef1d8a28a5437c90c7203b23fb45d03161d345675",
+          "seo": {
+            "title": "狗子云 · 账户、流量与套餐",
+            "keywords": "狗子云,账户,流量套餐,使用说明,客户端,常见问题",
+            "description": "狗子云。账户按月。流量封顶。设备计数。套餐、说明、问答都在本页。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "1406",
+            "hero": "7 窄栏居左配大面积留白",
+            "palette": "7 石板灰配青色",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jiqzupx.cn",
+    "host": "p-eab332eac3.jiqzupx.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "26eb4b8e37e02bde645580b11aa4c42904df6de8c2d1859d734658c08119347d",
+    "sitemap.xml": "147bf9a2eee41f6bf1ff7b4aa458cb2836b4a14fcab404dab9a84820fada895d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f27a5fb3ca7e13e7a2f9be375da18e4b53c128a84a25a9de1af6e81b1343bf3d",
+    "robots.txt": "e51992712dabd57702b0e988c514d08c3a285fdefff7074b864328e1e21451c6",
+    "627927fb5d80f59a2d504d20a5dec418.txt": "626b80338582deae5e9ad03842f4546b6dad8e64a575cdae37648675e047e85b"
+  },
+  "revision": "1b4b9de3faffeaee5ad92c23f835d9dffe1795cc54d6123723a3391ce77535e4"
+}
